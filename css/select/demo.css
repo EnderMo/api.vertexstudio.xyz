@@ -1,0 +1,7 @@
+.select select{  
+    background: rgba(0,0,0,0.2)
+    height: 40px;    
+    width: 240px;
+    font-size:20px;
+    border-radius:3px;
+}
