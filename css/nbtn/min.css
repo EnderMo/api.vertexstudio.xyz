@@ -1,13 +1,4 @@
 /*** common ***/
-html, body {
-	padding: 0;
-	margin: 0;
-	width: 100%;
-	height: 100%;
-  background-color:beige;
-  color: rgb(6, 106, 117);
-}
-
 .cubeshape {
 	width: 300px;
 	text-align: center;
